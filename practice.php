@@ -11,7 +11,7 @@ $hello="Hello,";
 $name="金谷勇宜";
 $world="'s World!";
 
-echo "$hello"."$name"."$world'";
+echo $hello.$name.$world;
 
 $tech_boost='tech';
 $tech_boost.='boost';
